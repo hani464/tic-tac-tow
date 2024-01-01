@@ -22,8 +22,20 @@ The Enhanced Tic-Tac-Toe Game is a Python-based console game that enhances the c
 ## How to Play
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/hani464/enhanced-tic-tac-toe.git
-Follow on-screen instructions to play the game. Enter your name, choose the difficulty level, and make moves according to the prompts.
+   git clone https://github.com/hani464/tic-tac-toe.git
+   ## How to Play
+1. Navigate to the project directory:
+    ```bash
+    cd tic-tac-toe
+    ```
+
+2. Run the game script:
+    ```bash
+    python tic_tac_toe.py
+    ```
+
+3. Follow the on-screen instructions to play the game. Enter your name, choose the difficulty level, and make moves according to the prompts.
+
 
 ## Future Enhancements
 - Online multiplayer functionality.
